@@ -1,0 +1,758 @@
+{
+  "original": {
+    "title": [
+      {
+        "text": "Slideshow Animations",
+        "x": 32,
+        "y": 32,
+        "width": 174.6875,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "backLink": [
+      {
+        "text": "Article",
+        "x": 161.546875,
+        "y": 65,
+        "width": 606.453125,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "prevLink": [
+      {
+        "text": "Previous demo",
+        "x": 32,
+        "y": 65,
+        "width": 113.546875,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "demosLabel": [
+      {
+        "text": "Variations",
+        "x": 32,
+        "y": 98,
+        "width": 736,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "demoLinks": [
+      {
+        "text": "01",
+        "x": 32,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "02",
+        "x": 126,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "03",
+        "x": 220,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "04",
+        "x": 314,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "05",
+        "x": 408,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "06",
+        "x": 502,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "07",
+        "x": 596,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "08",
+        "x": 690,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "09",
+        "x": 32,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "10",
+        "x": 126,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "11",
+        "x": 220,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "12",
+        "x": 314,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "13",
+        "x": 408,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "14",
+        "x": 502,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "15",
+        "x": 596,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "16",
+        "x": 690,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "navButtons": [
+      {
+        "text": "←",
+        "x": 185.546875,
+        "y": 508,
+        "width": 60,
+        "height": 60,
+        "font": "Arial",
+        "fontSize": "13.3333px",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "→",
+        "x": 253.546875,
+        "y": 508,
+        "width": 60,
+        "height": 60,
+        "font": "Arial",
+        "fontSize": "13.3333px",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    ]
+  },
+  "react": {
+    "title": [
+      {
+        "text": "Slideshow Animations",
+        "x": 32,
+        "y": 32,
+        "width": 174.6875,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "backLink": [
+      {
+        "text": "Article",
+        "x": 161.546875,
+        "y": 65,
+        "width": 606.453125,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "prevLink": [
+      {
+        "text": "Previous demo",
+        "x": 32,
+        "y": 65,
+        "width": 113.546875,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "demosLabel": [
+      {
+        "text": "Variations",
+        "x": 32,
+        "y": 98,
+        "width": 736,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "demoLinks": [
+      {
+        "text": "01",
+        "x": 32,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "02",
+        "x": 126,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "03",
+        "x": 220,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "04",
+        "x": 314,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "05",
+        "x": 408,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "06",
+        "x": 502,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "07",
+        "x": 596,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "08",
+        "x": 690,
+        "y": 123,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "09",
+        "x": 32,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "10",
+        "x": 126,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "11",
+        "x": 220,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "12",
+        "x": 314,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "13",
+        "x": 408,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "14",
+        "x": 502,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "15",
+        "x": 596,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "16",
+        "x": 690,
+        "y": 148,
+        "width": 78,
+        "height": 17,
+        "font": "anonymous-pro, monospace",
+        "fontSize": "16px",
+        "lineHeight": "17px",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "navButtons": [
+      {
+        "text": "←",
+        "x": 185.546875,
+        "y": 508,
+        "width": 60,
+        "height": 60,
+        "font": "Arial",
+        "fontSize": "13.33px",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "→",
+        "x": 253.546875,
+        "y": 508,
+        "width": 60,
+        "height": 60,
+        "font": "Arial",
+        "fontSize": "13.33px",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    ]
+  },
+  "diffs": [
+    {
+      "element": "title",
+      "index": 0,
+      "text": "Slideshow Animations",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "backLink",
+      "index": 0,
+      "text": "Article",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "prevLink",
+      "index": 0,
+      "text": "Previous demo",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demosLabel",
+      "index": 0,
+      "text": "Variations",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 0,
+      "text": "01",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 1,
+      "text": "02",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 2,
+      "text": "03",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 3,
+      "text": "04",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 4,
+      "text": "05",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 5,
+      "text": "06",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 6,
+      "text": "07",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 7,
+      "text": "08",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 8,
+      "text": "09",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 9,
+      "text": "10",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 10,
+      "text": "11",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 11,
+      "text": "12",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 12,
+      "text": "13",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 13,
+      "text": "14",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 14,
+      "text": "15",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "demoLinks",
+      "index": 15,
+      "text": "16",
+      "diff": {
+        "lineHeight": {
+          "original": "normal",
+          "react": "17px"
+        }
+      }
+    },
+    {
+      "element": "navButtons",
+      "index": 0,
+      "text": "←",
+      "diff": {
+        "fontSize": {
+          "original": "13.3333px",
+          "react": "13.33px"
+        }
+      }
+    },
+    {
+      "element": "navButtons",
+      "index": 1,
+      "text": "→",
+      "diff": {
+        "fontSize": {
+          "original": "13.3333px",
+          "react": "13.33px"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "original": {
+    "title": {
+      "font-size": "16px",
+      "line-height": "normal",
+      "height": "17px",
+      "margin-bottom": "0px"
+    },
+    "backLink": {
+      "font-size": "16px",
+      "line-height": "normal",
+      "height": "17px",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    "prevLink": {
+      "font-size": "16px",
+      "line-height": "normal",
+      "height": "17px",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    "demosNav": {
+      "height": "67px",
+      "padding": "0px",
+      "margin": "0px",
+      "grid-gap": "8px 16px",
+      "line-height": "normal"
+    },
+    "slidesNav": {
+      "height": "60px",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    "frame": {
+      "grid-template-rows": "17px 17px 67px 0px 371px",
+      "grid-gap": "16px"
+    }
+  },
+  "react": {
+    "title": {
+      "font-size": "16px",
+      "line-height": "17px",
+      "height": "17px",
+      "margin-bottom": "0px"
+    },
+    "backLink": {
+      "font-size": "16px",
+      "line-height": "17px",
+      "height": "17px",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    "prevLink": {
+      "font-size": "16px",
+      "line-height": "17px",
+      "height": "17px",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    "demosNav": {
+      "height": "67px",
+      "padding": "0px",
+      "margin": "0px",
+      "grid-gap": "8px 16px",
+      "line-height": "24px"
+    },
+    "slidesNav": {
+      "height": "60px",
+      "padding": "0px",
+      "margin": "0px"
+    },
+    "frame": {
+      "grid-template-rows": "17px 17px 67px 0px 371px",
+      "grid-gap": "16px"
+    }
+  }
+}

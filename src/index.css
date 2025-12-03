@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-size: 16px;
+  --color-text: #fff;
+  --color-bg: #000;
+  --color-link: #fff;
+  --color-link-hover: #fff;
+}
+
+body {
+  margin: 0;
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  font-family: 'anonymous-pro', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Loader */
+.loading::before,
+.loading::after {
+  content: '';
+  position: fixed;
+  z-index: 1000;
+}
+
+.loading::before {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-bg);
+}
+
+.loading::after {
+  top: 50%;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  margin: -30px 0 0 -30px;
+  border-radius: 50%;
+  opacity: 0.4;
+  background: var(--color-link);
+  animation: loaderAnim 0.7s linear infinite alternate forwards;
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+  grid-area: 1 / 1 / -1 / -1;
+  pointer-events: none;
+  /* opacity: 0;  <-- Removed to let Tailwind control it */
+  overflow: hidden;
+  position: relative;
+  display: grid;
+  place-items: center;
+  will-change: transform, opacity;
+}
+
+@keyframes loaderAnim {
+  to {
+    opacity: 1;
+    transform: scale3d(0.5, 0.5, 1);
+  }
+}
+
+.deco {
+  width: 100%;
+  height: 100%;
+  grid-area: 1 / 1 / -1 / -1;
+  pointer-events: none;
+  position: relative;
+  opacity: 0;
+  background: #8c718e;
+  will-change: transform, opacity;
+}
+
+.deco--1 {
+  background: #d4503e;
+}
+
+.deco--2 {
+  background: #1c1a1a;
+}
+
+.deco--3 {
+  background: #4e4141;
+}
+
+.deco--4 {
+  background: #000;
+}
+
+.deco--5 {
+  background: #060b17;
+}
+
+.deco--6 {
+  background: #34365c;
+}
+
+.deco--7 {
+  background: #9f6794;
+}
+
+.demo-2 .slide__img {
+  width: 120%;
+  height: 120%;
+}
